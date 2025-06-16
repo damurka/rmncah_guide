@@ -32,6 +32,11 @@ format:
       dark: darkly
     code-link: true
     author-meta: "Peter Kaberia"
+  pdf:
+    toc: true
+    number-sections: true
+    latex-enngine: lualatex
+    
 
 book:
   title: "Country Analysis Meeting (CAM) 2025 - Analysis Guide"
